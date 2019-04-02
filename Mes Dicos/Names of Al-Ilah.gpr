@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bab:GlossaryProject xmlns:bab="http://www.babylon.com">
+  <bab:GlossaryProperties>
+    <bab:Author>Gazimend Ariphi</bab:Author>
+    <bab:BrowseEnabled>Yes</bab:BrowseEnabled>
+    <bab:CaseSensitive>0</bab:CaseSensitive>
+    <bab:CreationDate>0129F0E7</bab:CreationDate>
+    <bab:Description>Les Noms de Dieu</bab:Description>
+    <bab:GeneralFlags>00000000</bab:GeneralFlags>
+    <bab:GlossaryIcon>D:\Program Files\Babylon\Babylon Glossary Builder\DefaultIcon.ico</bab:GlossaryIcon>
+    <bab:GlossaryId>0264932967787f99766e9c869d8a89447c6e8e9e7581889c8366955998727f9c8271856c88617821958f9c4d45637f5d577d895d628a2d5dac7f5b4742ba4589cc82214b419d839980a07d40392e946e7b667a627e6765f498988c76677e727a66677729879a8c6777617d657f6c6825868794635142ac4a5c454a9f908a2d5dac7f5b4742ba4589cc82214b419f534242</bab:GlossaryId>
+    <bab:GlossaryIdConfirmation>6D1B5GQM</bab:GlossaryIdConfirmation>
+    <bab:GlossaryType>00188000</bab:GlossaryType>
+    <bab:GlsType>00000001</bab:GlsType>
+    <bab:SourceCharset>Latin</bab:SourceCharset>
+    <bab:SourceLanguage>English</bab:SourceLanguage>
+    <bab:TargetCharset>Latin</bab:TargetCharset>
+    <bab:TargetLanguage>English</bab:TargetLanguage>
+    <bab:Title>Names of Al-Ilah</bab:Title>
+  </bab:GlossaryProperties>
+  <bab:GlossaryTermsGeneration>
+    <bab:TermsGenerationMethod>
+      <bab:DataSource bab:Type="Text File">
+        <bab:TextFileSource>
+          <bab:TextSourceFileName>M:\Tmp\DOWNLOAD DVD\SOFTWARES\DICTIONNAIRE\Mes dicos\Les Noms de Dieu.gls</bab:TextSourceFileName>
+        </bab:TextFileSource>
+      </bab:DataSource>
+    </bab:TermsGenerationMethod>
+  </bab:GlossaryTermsGeneration>
+</bab:GlossaryProject>

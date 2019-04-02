@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bab:GlossaryProject xmlns:bab="http://www.babylon.com">
+  <bab:GlossaryProperties>
+    <bab:Author>alona</bab:Author>
+    <bab:BrowseEnabled>Yes</bab:BrowseEnabled>
+    <bab:CaseSensitive>0</bab:CaseSensitive>
+    <bab:CreationDate>012BDEC9</bab:CreationDate>
+    <bab:GeneralFlags>00000000</bab:GeneralFlags>
+    <bab:GlossaryIcon>C:\Program Files\Babylon\Babylon Glossary Builder\DefaultIcon.ico</bab:GlossaryIcon>
+    <bab:GlossaryId>0298925b92787c6b816e9c869d8a89447c6e7d6d8d8c819c8291955a68767b9981879c869d7865219c928461466e5a6d725489447c6e79a0415f4843414e44907a25245d</bab:GlossaryId>
+    <bab:GlossaryIdConfirmation>56000RDM</bab:GlossaryIdConfirmation>
+    <bab:GlossaryType>00188000</bab:GlossaryType>
+    <bab:GlsType>00000001</bab:GlsType>
+    <bab:SourceCharset>Latin</bab:SourceCharset>
+    <bab:SourceLanguage>English</bab:SourceLanguage>
+    <bab:TargetCharset>Latin</bab:TargetCharset>
+    <bab:TargetLanguage>English</bab:TargetLanguage>
+    <bab:Title>phonetics</bab:Title>
+  </bab:GlossaryProperties>
+  <bab:GlossaryTermsGeneration>
+    <bab:TermsGenerationMethod>
+      <bab:DataSource bab:Type="Excel Worksheet">
+        <bab:ExcelFile>
+          <bab:FileName>C:\Documents and Settings\Alona\Desktop\numbers.xls</bab:FileName>
+          <bab:ShowColumnNames>True</bab:ShowColumnNames>
+          <bab:WorkSheet>Sheet1</bab:WorkSheet>
+        </bab:ExcelFile>
+      </bab:DataSource>
+      <bab:FixedFieldsSelection>
+        <bab:FieldsCollection>
+          <bab:Field bab:Name="NAME " />
+          <bab:Field bab:Name="ALTERNATE NAME" />
+          <bab:Field bab:Name="PHONETIC" />
+          <bab:Field bab:Name="DEFINITION" />
+          <bab:Field bab:Name="Image" />
+        </bab:FieldsCollection>
+        <bab:Term>
+          <bab:Field bab:Name="NAME " />
+          <bab:AddTermWordsAsAlternates>False</bab:AddTermWordsAsAlternates>
+        </bab:Term>
+        <bab:Alternates>
+          <bab:Field bab:Name="ALTERNATE NAME" bab:SplitToWords="False" />
+          <bab:Field bab:Name="PHONETIC" bab:SplitToWords="False" />
+          <bab:Field bab:Name="DEFINITION" bab:SplitToWords="False" />
+          <bab:SplitDelimiters bab:SplitDelimiters="" />
+        </bab:Alternates>
+        <bab:Definition>
+          <bab:DefinitionFields>
+            <bab:Field bab:Name="NAME " bab:EscapeFieldValue="False" />
+            <bab:Field bab:Name="ALTERNATE NAME" bab:EscapeFieldValue="False" />
+            <bab:Field bab:Name="PHONETIC" bab:EscapeFieldValue="False" />
+            <bab:Field bab:Name="DEFINITION" bab:EscapeFieldValue="False" />
+            <bab:Field bab:Name="Image" bab:EscapeFieldValue="False" />
+          </bab:DefinitionFields>
+          <bab:Template>&lt;bab:FieldValue Name="NAME " Format="HTML"/&gt;&lt;br&gt;
+&lt;bab:FieldValue Name="ALTERNATE NAME" Format="HTML"/&gt;&lt;br&gt;
+&lt;bab:FieldValue Name="PHONETIC" Format="HTML"/&gt;&lt;br&gt;
+&lt;bab:FieldValue Name="DEFINITION" Format="HTML"/&gt;&lt;br&gt;
+&lt;bab:FieldValue Name="Image" Format="HTML"/&gt;&lt;br&gt;
+</bab:Template>
+          <bab:DisplayColumnNames>False</bab:DisplayColumnNames>
+          <bab:DisplayValuesInSeparateLines>True</bab:DisplayValuesInSeparateLines>
+          <bab:UseUserDefinedTemplate>False</bab:UseUserDefinedTemplate>
+        </bab:Definition>
+      </bab:FixedFieldsSelection>
+    </bab:TermsGenerationMethod>
+  </bab:GlossaryTermsGeneration>
+</bab:GlossaryProject>

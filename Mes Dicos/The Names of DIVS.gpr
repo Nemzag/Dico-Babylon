@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bab:GlossaryProject xmlns:bab="http://www.babylon.com">
+  <bab:GlossaryProperties>
+    <bab:Author>Arifi Gaziment</bab:Author>
+    <bab:AuthorEmail>nemzag@hotmail.com</bab:AuthorEmail>
+    <bab:BrowseEnabled>Yes</bab:BrowseEnabled>
+    <bab:CaseSensitive>0</bab:CaseSensitive>
+    <bab:Copyright>Bismilah Al-Rohmani Al-Rohim</bab:Copyright>
+    <bab:CreationDate>012CC6DD</bab:CreationDate>
+    <bab:Description>The Names of Allah</bab:Description>
+    <bab:GeneralFlags>00000000</bab:GeneralFlags>
+    <bab:GlossaryIcon>C:\Program Files\Babylon\Babylon Glossary Builder\DefaultIcon.ico</bab:GlossaryIcon>
+    <bab:GlossaryId>0295656061887e6b866e9c869d8a89447c6e8c9a8d7188697892955a6387717072779c869d656d2b9b888e6e436d53418f9d89447c6e79a0415f4843414e44907a25245d</bab:GlossaryId>
+    <bab:GlossaryIdConfirmation>FF000CLG</bab:GlossaryIdConfirmation>
+    <bab:GlossaryType>00188000</bab:GlossaryType>
+    <bab:GlsType>00000001</bab:GlsType>
+    <bab:MinClientVersion>6.0</bab:MinClientVersion>
+    <bab:SourceCharset>Latin</bab:SourceCharset>
+    <bab:SourceLanguage>English</bab:SourceLanguage>
+    <bab:TargetCharset>Latin</bab:TargetCharset>
+    <bab:TargetLanguage>English</bab:TargetLanguage>
+    <bab:Title>The Names of DIVS</bab:Title>
+  </bab:GlossaryProperties>
+  <bab:GlossaryTermsGeneration>
+    <bab:TermsGenerationMethod>
+      <bab:DataSource bab:Type="Excel Worksheet">
+        <bab:ExcelFile>
+          <bab:FileName>Z:\Mes Dicos\Les Noms de Dieu.xlsx</bab:FileName>
+          <bab:ShowColumnNames>True</bab:ShowColumnNames>
+          <bab:WorkSheet>SHQIPËRIA</bab:WorkSheet>
+        </bab:ExcelFile>
+      </bab:DataSource>
+      <bab:FixedFieldsSelection>
+        <bab:FieldsCollection>
+          <bab:Field bab:Name="VALUE" />
+          <bab:Field bab:Name="ROOT" />
+          <bab:Field bab:Name="HEBREW ROOT" />
+          <bab:Field bab:Name="ENGLISH SHORT" />
+          <bab:Field bab:Name="ENGLISH" />
+          <bab:Field bab:Name="ALTERNATE SHORT ENGLISH" />
+          <bab:Field bab:Name="ALTERNATE ENGLISH" />
+          <bab:Field bab:Name="ALTERNATE SHORT TURK" />
+          <bab:Field bab:Name="ALTERNATE BYZANTINE" />
+          <bab:Field bab:Name="ALTERNATE HELLENIK" />
+          <bab:Field bab:Name="ALTERNATE GAZIMENT" />
+          <bab:Field bab:Name="ALTERNATE OTHMANLI" />
+          <bab:Field bab:Name="SHORT SHQIP" />
+          <bab:Field bab:Name="ALTERNATE SHQIP" />
+          <bab:Field bab:Name="PHONETIC ARBI" />
+          <bab:Field bab:Name="PHONETIC ENGLISH" />
+          <bab:Field bab:Name="PHONETIC GAZIMENT" />
+          <bab:Field bab:Name="PHONETIC OTHMANLI" />
+          <bab:Field bab:Name="DEFINITION ENGLISH" />
+          <bab:Field bab:Name="DEFINITION SHQIP" />
+          <bab:Field bab:Name="DEFINITION Français" />
+          <bab:Field bab:Name="IMAGE" />
+          <bab:Field bab:Name="Phoɴéтiquɑ Aʀabe Fausse" />
+          <bab:Field bab:Name="Phoɴéтique Aʀabe" />
+          <bab:Field bab:Name="Phoɴéтiquɛ Oθмaɴeliтe" />
+          <bab:Field bab:Name="Phoɴéтiquɛ Oʀigiɴal" />
+        </bab:FieldsCollection>
+        <bab:Term>
+          <bab:Field bab:Name="ENGLISH SHORT" />
+          <bab:AddTermWordsAsAlternates>True</bab:AddTermWordsAsAlternates>
+        </bab:Term>
+        <bab:Alternates>
+          <bab:Field bab:Name="ALTERNATE SHORT ENGLISH" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE SHORT TURK" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE BYZANTINE" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE HELLENIK" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE GAZIMENT" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE ENGLISH" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE OTHMANLI" bab:SplitToWords="False" />
+          <bab:Field bab:Name="ALTERNATE SHQIP" bab:SplitToWords="False" />
+          <bab:SplitDelimiters bab:SplitDelimiters="," />
+        </bab:Alternates>
+        <bab:Definition>
+          <bab:DefinitionFields>
+            <bab:Field bab:Name="ROOT" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ENGLISH SHORT" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE SHORT ENGLISH" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE SHORT TURK" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE BYZANTINE" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE HELLENIK" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE GAZIMENT" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE ENGLISH" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE OTHMANLI" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="ALTERNATE SHQIP" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="PHONETIC ARBI" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="PHONETIC ENGLISH" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="PHONETIC GAZIMENT" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="PHONETIC OTHMANLI" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="DEFINITION ENGLISH" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="DEFINITION SHQIP" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="DEFINITION Français" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="IMAGE" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Phoɴéтiquɑ Aʀabe Fausse" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Phoɴéтique Aʀabe" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Phoɴéтiquɛ Oθмaɴeliтe" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Phoɴéтiquɛ Oʀigiɴal" bab:EscapeFieldValue="True" />
+          </bab:DefinitionFields>
+          <bab:Template>&lt;P ALIGN=RIGHT&gt; &lt;FONT SIZE=+3&gt; &lt;FONT FACE="ANDALUS"&gt; &lt;bab:FieldValue Name="ROOT" Format="HTML"/&gt;&lt;br&gt; &lt;/FONT&gt; &lt;/FONT&gt;&lt;/p&gt;
+
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;P ALIGN=RIGHT&gt;Arba &lt;FONT COLOR="gray"&gt;&lt;b&gt;&lt;bab:FieldValue Name="PHONETIC ARBI" Format="HTML"/&gt;  &lt;/b&gt; &lt;/FONT&gt;
+
+   &lt;p&gt; &lt;/p&gt;
+
+&lt;hr&gt;
+&lt;P ALIGN=RIGHT&gt; &lt;FONT SIZE=+2&gt; &lt;FONT FACE="CARDO"&gt; &lt;bab:FieldValue Name="HEBREW ROOT" Format="HTML"/&gt;&lt;br&gt; &lt;/FONT&gt; &lt;/FONT&gt;&lt;/p&gt;
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+
+&lt;FONT COLOR="blue"&gt; &lt;bab:FieldValue Name="ALTERNATE HELLENIK" Format="HTML"/&gt;&lt;br&gt;  &lt;/FONT&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;FONT COLOR="blue"&gt; &lt;bab:FieldValue Name="ALTERNATE BYZANTINE" Format="HTML"/&gt;&lt;br&gt;  &lt;/FONT&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;FONT COLOR="gray"&gt; &lt;b&gt; &lt;bab:FieldValue Name="PHONETIC ARBI" Format="HTML"/&gt;  &lt;/b&gt; &lt;/FONT&gt;
+
+   &lt;p&gt; &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+
+&lt;DFN&gt; &lt;bab:FieldValue Name="DEFINITION ENGLISH" Format="HTML"/&gt;&lt;br&gt;  &lt;/DFN&gt;</bab:Template>
+          <bab:DisplayColumnNames>True</bab:DisplayColumnNames>
+          <bab:DisplayValuesInSeparateLines>True</bab:DisplayValuesInSeparateLines>
+          <bab:UseUserDefinedTemplate>True</bab:UseUserDefinedTemplate>
+        </bab:Definition>
+      </bab:FixedFieldsSelection>
+    </bab:TermsGenerationMethod>
+  </bab:GlossaryTermsGeneration>
+</bab:GlossaryProject>

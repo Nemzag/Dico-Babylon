@@ -1,0 +1,36 @@
+### Glossary title:arifi
+### Author:alon
+### Description:bword examples.
+### Source language:English
+### Source alphabet:Default
+### Target language:English
+### Target alphabet:Default
+### Icon:
+### Icon2:
+### Browsing enabled?Yes
+### Type of glossary:00000000
+### Case sensitive words?0
+; DO NOT EDIT THE NEXT **SIX** LINES  - Babylon-Builder generated text !!!!!!
+### Glossary id:0298913068878c97776e9c869d8a89447c6e7d6d8d8c819c8291955a617771998871866c856e6c2c91858d718e5a4e69686f894461233a47525c9c9a8c659f38982d2b5b59585a5a42ba488238de9b4b48415d4856557d2d402d264f707151595a564a8490243f4146519a4d5955
+### Confirmation string:4D2B8LMH
+### File build number:012C17D8
+### Build:50"092"0
+### Glossary settings:00000000
+### Gls type:00000001
+; DO NOT EDIT THE PREVIOUS **SIX** LINES  - Babylon-Builder generated text !!!!!!
+### Part of speech table:
+### Private label id:
+### Min version:0
+### Regular expression:
+
+### Glossary section:
+
+cat
+four legged animal who's afraid of <a href="bword://dog">dogs</a> and chases <a href="bword://mouse">mice</a>.
+
+dog
+a big four legged animal who chases <a href="bword://cat">cats</a><BR> and is afraid of the mailman.
+
+mouse
+a tiny four legged animal who's afraid of <a href="bword://dog">dogs</a> and <a href="bword://cat">cats</a>.
+

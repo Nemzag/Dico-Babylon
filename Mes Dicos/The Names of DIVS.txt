@@ -1,0 +1,38 @@
+<P ALIGN=RIGHT> <FONT SIZE=+3> <FONT FACE="ANDALUS"> <bab:FieldValue Name="ROOT" Format="HTML"/><br> </FONT> </FONT></p>
+
+
+<p> </p>
+
+<P ALIGN=RIGHT>Arba <FONT COLOR="gray"><b><bab:FieldValue Name="PHONETIC ARBI" Format="HTML"/>  </b> </FONT>
+
+   <p> </p>
+
+<hr>
+<P ALIGN=RIGHT> <FONT SIZE=+2> <FONT FACE="CARDO"> <bab:FieldValue Name="HEBREW ROOT" Format="HTML"/><br> </FONT> </FONT></p>
+
+
+<p> </p>
+<hr>
+
+<FONT COLOR="blue"> <bab:FieldValue Name="ALTERNATE HELLENIK" Format="HTML"/><br>  </FONT>
+
+<p> </p>
+
+<FONT COLOR="blue"> <bab:FieldValue Name="ALTERNATE BYZANTINE" Format="HTML"/><br>  </FONT>
+
+<p> </p>
+
+<hr>
+
+<p> </p>
+
+<FONT COLOR="gray"> <b> <bab:FieldValue Name="PHONETIC ARBI" Format="HTML"/>  </b> </FONT>
+
+   <p> </p>
+
+<hr>
+
+<p> </p>
+
+
+<DFN> <bab:FieldValue Name="DEFINITION ENGLISH" Format="HTML"/><br>  </DFN>

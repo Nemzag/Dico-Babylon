@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bab:GlossaryProject xmlns:bab="http://www.babylon.com">
+  <bab:GlossaryProperties>
+    <bab:Author>Arifi Gazmend</bab:Author>
+    <bab:AuthorEmail>nemzag@hotmail.com</bab:AuthorEmail>
+    <bab:BrowseEnabled>Yes</bab:BrowseEnabled>
+    <bab:CaseSensitive>0</bab:CaseSensitive>
+    <bab:Copyright>Populli Shqiptärë</bab:Copyright>
+    <bab:CreationDate>0132A5ED</bab:CreationDate>
+    <bab:Description>Dialectical word from the albanian living in Macedonia, most are the old prononciation of the word, those was in use in Albania before the Communist reform, after the second world war... Today those prononciation begin to disappears, so i had the idea to make a Free Glossary to always remember  the ancient word of my people...</bab:Description>
+    <bab:GeneralFlags>00000000</bab:GeneralFlags>
+    <bab:GlossaryIcon>C:\Program Files\Babylon\Babylon Glossary Builder\DefaultIcon.ico</bab:GlossaryIcon>
+    <bab:GlossaryId>0265925b987b7b6d816e9c869d8a89447c6e8e9c788272697394955b98878d9d75749c869d6b75409e8b84414e81885f7d5489447c6e79a0415f4843414e44907a25245d</bab:GlossaryId>
+    <bab:GlossaryIdConfirmation>AA000MTT</bab:GlossaryIdConfirmation>
+    <bab:GlossaryType>00188000</bab:GlossaryType>
+    <bab:GlsType>00000001</bab:GlsType>
+    <bab:MinClientVersion>6.0</bab:MinClientVersion>
+    <bab:SourceCharset>Latin</bab:SourceCharset>
+    <bab:SourceLanguage>English</bab:SourceLanguage>
+    <bab:TargetCharset>Latin</bab:TargetCharset>
+    <bab:TargetLanguage>Albanian</bab:TargetLanguage>
+    <bab:Title>Shqipja e Maqedonisës</bab:Title>
+  </bab:GlossaryProperties>
+  <bab:GlossaryTermsGeneration>
+    <bab:TermsGenerationMethod>
+      <bab:DataSource bab:Type="Excel Worksheet">
+        <bab:ExcelFile>
+          <bab:FileName>Z:\MKSHQIP &amp; ENGLISH.xlsx</bab:FileName>
+          <bab:ShowColumnNames>True</bab:ShowColumnNames>
+          <bab:WorkSheet>English to Shqip</bab:WorkSheet>
+        </bab:ExcelFile>
+      </bab:DataSource>
+      <bab:FixedFieldsSelection>
+        <bab:FieldsCollection>
+          <bab:Field bab:Name="Français" />
+          <bab:Field bab:Name="English" />
+          <bab:Field bab:Name="Alternate English" />
+          <bab:Field bab:Name="Shqip" />
+          <bab:Field bab:Name="ɸɔɴetik" />
+          <bab:Field bab:Name="Alternate Shqip" />
+          <bab:Field bab:Name="Alternate Shqip ɸɔɴetik" />
+          <bab:Field bab:Name="ORIGIN" />
+          <bab:Field bab:Name="ɸɔɴetik origin" />
+          <bab:Field bab:Name="ORIGIN INFORMATION" />
+          <bab:Field bab:Name="DEVIATIO" />
+          <bab:Field bab:Name="INFO" />
+          <bab:Field bab:Name="INFO 2" />
+        </bab:FieldsCollection>
+        <bab:Term>
+          <bab:Field bab:Name="English" />
+          <bab:AddTermWordsAsAlternates>False</bab:AddTermWordsAsAlternates>
+        </bab:Term>
+        <bab:Alternates>
+          <bab:Field bab:Name="Alternate English" bab:SplitToWords="False" />
+          <bab:Field bab:Name="Shqip" bab:SplitToWords="False" />
+          <bab:Field bab:Name="Alternate Shqip" bab:SplitToWords="False" />
+          <bab:SplitDelimiters bab:SplitDelimiters="" />
+        </bab:Alternates>
+        <bab:Definition>
+          <bab:DefinitionFields>
+            <bab:Field bab:Name="Français" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="English" bab:EscapeFieldValue="True" />
+          </bab:DefinitionFields>
+          <bab:Template>&lt;P ALIGN=LEFT&gt;
+&lt;FONT COLOR="Green"&gt;
+&lt;FONT SIZE=+1&gt;
+&lt;FONT FACE="Times New Roman"&gt;
+&lt;bab:FieldValue Name="Shqip" Format="HTML"/&gt;
+&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;
+
+
+&lt;FONT COLOR="gray"&gt;
+ [&lt;bab:FieldValue Name="ɸɔɴetik" Format="HTML"/&gt;] 
+&lt;/FONT&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;b&gt;&lt;i&gt;Writed in Albania since the Communist reform of 1947 :&lt;/i&gt;&lt;/b&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+&lt;FONT FACE="Times New Roman"&gt;
+&lt;FONT SIZE=+1&gt;
+&lt;FONT COLOR="DarkRed"&gt;
+&lt;bab:FieldValue Name="Alternate Shqip" Format="HTML"/&gt;
+&lt;/FONT&gt;
+
+&lt;/FONT&gt;&lt;/FONT&gt;
+&lt;FONT COLOR="gray"&gt; [&lt;bab:FieldValue Name="Alternate Shqip ɸɔɴetik" Format="HTML"/&gt;] 
+&lt;/FONT&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;b&gt;&lt;i&gt;Origin of the Word :&lt;/i&gt;&lt;/b&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;FONT COLOR="blue"&gt;
+&lt;FONT SIZE=+1&gt;
+&lt;FONT FACE="Times New Roman"&gt;
+&lt;bab:FieldValue Name="ORIGIN" Format="HTML"/&gt;
+&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;
+&lt;FONT COLOR="gray"&gt; [&lt;bab:FieldValue Name="ɸɔɴetik origin" Format="HTML"/&gt;] &lt;/FONT&gt;
+
+ from &lt;bab:FieldValue Name="ORIGIN INFORMATION" Format="HTML"/&gt; ; &lt;bab:FieldValue Name="DEVIATIO" Format="HTML"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;b&gt;&lt;i&gt;Information for the Word :&lt;/i&gt;&lt;/b&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;FONT SIZE=+1&gt;&lt;DD&gt;&lt;FONT FACE="Times New Roman"&gt; &lt;bab:FieldValue Name="INFO" Format="HTML"/&gt;&lt;br&gt;&lt;/DD&gt; &lt;/FONT&gt;
+
+ &lt;/FONT&gt;
+</bab:Template>
+          <bab:DisplayColumnNames>True</bab:DisplayColumnNames>
+          <bab:DisplayValuesInSeparateLines>True</bab:DisplayValuesInSeparateLines>
+          <bab:UseUserDefinedTemplate>True</bab:UseUserDefinedTemplate>
+        </bab:Definition>
+      </bab:FixedFieldsSelection>
+    </bab:TermsGenerationMethod>
+  </bab:GlossaryTermsGeneration>
+</bab:GlossaryProject>
