@@ -48,18 +48,22 @@
           <bab:Field bab:Name="INFO 2" />
         </bab:FieldsCollection>
         <bab:Term>
-          <bab:Field bab:Name="Français" />
-          <bab:AddTermWordsAsAlternates>False</bab:AddTermWordsAsAlternates>
+          <bab:Field bab:Name="English" />
+          <bab:AddTermWordsAsAlternates>True</bab:AddTermWordsAsAlternates>
         </bab:Term>
         <bab:Alternates>
-          <bab:SplitDelimiters bab:SplitDelimiters="" />
+          <bab:Field bab:Name="Alternate English" bab:SplitToWords="False" />
+          <bab:SplitDelimiters bab:SplitDelimiters="," />
         </bab:Alternates>
         <bab:Definition>
           <bab:DefinitionFields>
             <bab:Field bab:Name="Français" bab:EscapeFieldValue="True" />
             <bab:Field bab:Name="English" bab:EscapeFieldValue="True" />
             <bab:Field bab:Name="Alternate English" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Type" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Shqip (Gheg)" bab:EscapeFieldValue="True" />
             <bab:Field bab:Name="ɸɔɴetik" bab:EscapeFieldValue="True" />
+            <bab:Field bab:Name="Alternate Shqip (Tosk)" bab:EscapeFieldValue="True" />
             <bab:Field bab:Name="Alternate Shqip ɸɔɴetik" bab:EscapeFieldValue="True" />
             <bab:Field bab:Name="ORIGIN" bab:EscapeFieldValue="True" />
             <bab:Field bab:Name="ɸɔɴetik origin" bab:EscapeFieldValue="True" />

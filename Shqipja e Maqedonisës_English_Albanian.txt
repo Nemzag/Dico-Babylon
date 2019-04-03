@@ -1,0 +1,97 @@
+﻿<P ALIGN=LEFT>
+
+	<FONT COLOR="Green">
+		
+<FONT SIZE=+1>
+<FONT FACE="Times New Roman">
+<bab:FieldValue Name="Shqip (Gheg)" Format="HTML"/>
+		
+</FONT>
+	</FONT>
+</FONT>
+
+
+
+	<FONT COLOR="gray">
+ [<bab:FieldValue Name="ɸɔɴetik" Format="HTML"/>]
+
+</FONT>
+
+
+
+<p></p>
+
+<br>
+<br>
+
+
+
+<b><i>Writed in Albania since the Communist reform of 1947 :</i></b>
+
+<p> </p>
+
+
+
+<FONT FACE="Times New Roman">
+
+<FONT SIZE=+1>
+<FONT COLOR="DarkRed">
+
+<bab:FieldValue Name="Alternate Shqip (Tosk)" Format="HTML"/>
+
+</FONT>
+
+</FONT></FONT>
+
+	<FONT COLOR="gray">
+	[<bab:FieldValue Name="Alternate Shqip ɸɔɴetik" Format="HTML"/>]
+
+</FONT>
+
+
+
+
+
+<p></p>
+
+<br>
+<br>
+
+
+<b><i>Origin of the Word :</i></b>
+<p></p>
+
+
+
+	<FONT COLOR="blue">
+
+		<FONT SIZE=+1>
+
+		<FONT FACE="Times New Roman">
+<bab:FieldValue Name="ORIGIN" Format="HTML"/>
+
+		</FONT>
+	</FONT>
+</FONT>
+
+<FONT COLOR="gray"> [<bab:FieldValue Name="ɸɔɴetik origin" Format="HTML"/>] </FONT>
+
+ from <bab:FieldValue Name="ORIGIN INFORMATION" Format="HTML"/> ; <bab:FieldValue Name="DEVIATIO" Format="HTML"/></p>
+
+<p></p>
+
+<br>
+
+
+<br>
+
+
+<b><i>Information for the Word :</i></b>
+
+<p> </p>
+
+
+<FONT SIZE=+1><DD><FONT FACE="Times New Roman"> <bab:FieldValue Name="INFO" Format="HTML"/><br></DD> </FONT>
+
+ </FONT>
+
